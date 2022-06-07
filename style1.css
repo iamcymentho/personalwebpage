@@ -1,0 +1,166 @@
+
+
+.navbar{
+
+	position: sticky;
+	top: 2px;
+}
+
+
+
+
+.navbar-nav a:hover{
+
+	background-color:#0dcaf0;
+	border-radius: 10px;
+	color: white;
+
+	
+}
+
+
+
+body{
+
+	background-color: #f4f4f4;
+
+}
+
+
+header{
+
+	background-image: url("images/study.jpeg")!important;
+
+	min-height: 200px;
+	background-position: bottom;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.overlay{
+
+
+	background-color: rgba(0, 0, 0, 0.7);
+				min-height: 200px;
+
+}
+
+
+
+.mynewsletter{
+
+
+	margin-left: 250px;
+	
+}
+
+
+	.myheading{
+
+
+		font-family: 'Bebas Neue', cursive;
+		word-spacing: 10px;
+		letter-spacing: 3px;
+	}
+
+
+	.mytext{
+
+		font-family: 'Nunito', sans-serif;
+	}
+
+	.myimage{
+
+		border-right: 1px solid #0dcaf0;
+		padding-right: 25px;
+
+
+		border-bottom: 1px solid #0dcaf0;
+		padding-bottom: 25px;
+
+	}
+
+
+
+	.section2{
+
+		background-color: rgba(0, 0, 0, 0.7);
+		min-height: 400px;
+		margin-top: 20px;
+	}
+
+
+	.section3div{
+
+		background-image: url("images/office.jpg");
+
+		height:130px;
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: center;
+		background-attachment: fixed;
+	}
+
+
+	.overlay1{
+           
+           background-color: rgba(0, 0, 0, 0.8);
+				min-height: 100px;
+
+	}
+
+
+	.mycontactform{
+
+		margin-top: 75px;
+	}
+
+	.mydirections{
+
+		margin-top: 75px;
+	}
+
+
+
+   .mytestimonials{
+
+
+   		background-color: rgba(0, 0, 0, 0.7);
+
+   }
+
+
+
+
+
+
+	.myleftquote{
+
+
+		margin-left: 250px;
+	}
+
+
+	.mycard:hover{
+
+		background-color: black;
+		color: white;
+	}
+
+
+	.mysocial{
+
+		position: fixed;
+
+	     top: 275px;
+	     right: 5px;
+
+	     list-style-type: none;
+	}
+
+
+
+	  
+
+	  
